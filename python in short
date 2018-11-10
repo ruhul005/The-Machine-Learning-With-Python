@@ -1,2 +1,25 @@
 Basic Syntax for Python
 https://www.pythoncentral.io/
+
+for printing
+		printf("text")
+
+
+if else elif
+
+if x>0:
+	print("Text")
+else:
+	print("Text")
+
+//else is known as elif
+
+elif x>0
+	print("Hi hello")
+
+
+
+
+//// Looop/////
+
+
