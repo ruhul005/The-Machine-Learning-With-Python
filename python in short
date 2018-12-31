@@ -24,5 +24,8 @@ elif x>0
 
 
 //// Looop/////
-Hi get it soon+ Loop[ will be added soon
+//User Input On Python
 
+int x;
+x=input("What is x");
+print("your age is",x)
